@@ -8,3 +8,6 @@ More
    ServiceLocator/README
    Repository/README
    EAV/README
+RHGEQ
+QETHWRT
+AERTQH
